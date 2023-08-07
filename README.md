@@ -1,2 +1,2 @@
 # ubiquitous-food
-A repository to experiment with Git and GitHub
+A repository to experiment with Git and GitHub.
